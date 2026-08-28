@@ -1,0 +1,13 @@
+This PR proposes the addition of Smartrexs Chain (SMRX) to the SLIP-0044 registry.
+
+- Coin name: Smartrexs Chain
+- Symbol: SMRX
+- Proposed coin type: 10001
+- Description: Smartrexs Chain (SMRX) is a decentralized blockchain designed for scalable smart contracts and fast transactions.
+
+Rationale:
+Smartrexs Chain is a new blockchain project requiring a unique coin type for HD wallet derivation paths. The proposed coin type (10001) is currently unused in the registry and falls within the safe range for new assignments.{
+  "coin_name": "Smartrexs Chain",
+  "coin_symbol": "SMRX",
+  "coin_type": 10001
+}
